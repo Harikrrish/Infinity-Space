@@ -28,7 +28,6 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-
   }
 
   onClickModularKitchen(selectedTab) {
@@ -114,7 +113,7 @@ class App extends React.Component {
   }
 
   // async componentDidMount() {
-  //   const url = "https://ifsc.razorpay.com/IDIB000V080";
+  //   const url = "https://ifsc.razorpay.com/";
   //   fetch(url).then(response => response.json()).then(data => {
   //     //this.ifsc(data);
   //   });
