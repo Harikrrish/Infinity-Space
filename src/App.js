@@ -28,6 +28,9 @@ class App extends React.Component {
   };
 
   componentDidMount() {
+
+
+    
   }
 
   onClickModularKitchen(selectedTab) {
