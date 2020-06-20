@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,13 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# Infinity-Space
-Hi This is Hariharan
-I have developed a new React Project for Interior Company.
-1) Clone the project.
-2) run npm install
-3) run npm start
-
-Feel free to contact me. Thankyou
->>>>>>> 104b05661125f7a35b6aa80cfc3e00975f87d886
